@@ -1,3 +1,17 @@
+# TUGAS 9 REACT JS
+
+# Tujuan :
+
+- Memahami cara penggunaan component Bootstrap.
+- Memahami cara penggunaan Nav.
+- Memahami cara penggunaan Navbars.
+- Memahami cara penggunaan Overlays / Popovers / Tooltips.
+- Memahami cara penggunaan Pagination.
+- Memahami cara penggunaan Progress bars.
+- Memahami cara penggunaan Tables.
+- Memahami cara penggunaan Tab.
+- Memahami cara penggunaan Collapse.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
